@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.com/BlackChaose/js_dev_boilerplate.svg?branch=master)](https://travis-ci.com/BlackChaose/js_dev_boilerplate)
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/9af62b062ff90237ae1f/maintainability)](https://codeclimate.com/github/BlackChaose/js_dev_boilerplate/maintainability)
+<a href="https://codeclimate.com/github/BlackChaose/js_dev_boilerplate/test_coverage"><img src="https://api.codeclimate.com/v1/badges/9af62b062ff90237ae1f/test_coverage" /></a>
 ---
 
 # my boilerplate for js develop #
