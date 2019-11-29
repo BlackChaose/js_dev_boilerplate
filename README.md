@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/BlackChaose/js_dev_boilerplate.svg?branch=master)](https://travis-ci.com/BlackChaose/js_dev_boilerplate)
 
 ---
 
