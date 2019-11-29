@@ -7,10 +7,9 @@ env:
   global:
     CC_TEST_REPORTER_ID=b1be8d44cbfd1a360a2b50ed4c1f2cd9d761e2f07c86582ad928592159e7452b
 install:
-  npm install -g browserify
-before_script:
-  make install
-  make asm
+  - npm install -g browserify
+  - make install
+  - make asm
 before_script:
     - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
     - chmod +x ./cc-test-reporter
