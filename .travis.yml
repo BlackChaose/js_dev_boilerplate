@@ -18,4 +18,4 @@ script:
   - make test
   - make test_cover
 after_script:
- - ./cc-test-reporter after-build -t clover --exit-code $TRAVIS_TEST_RESULT
+ - ./cc-test-reporter after-build -t lcov --exit-code $TRAVIS_TEST_RESULT
