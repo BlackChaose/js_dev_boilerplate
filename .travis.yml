@@ -9,6 +9,7 @@ env:
 install:
   npm install -g browserify
 before_script:
+  make install
   make asm
 before_script:
     - curl -L https://codeclimate.com/downloads/test-reporter/test-reporter-latest-linux-amd64 > ./cc-test-reporter
